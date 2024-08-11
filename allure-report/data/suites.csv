@@ -1,7 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","1840","test_Signup_002","testCases","Sun Aug 11 18:20:04 IST 2024","broken","Sun Aug 11 18:20:06 IST 2024","Test_UserProfile","test_UserProfile","",""
-"self.Log.debug(""This is debug"")
-        self.Log.info(""This is info"")
-        self.Log.warning(""This is warning"")
-        self.Log.error(""This is error"")
-        self.Log.critical(""This is critical"")","208","BankApp url testing 01","testCases","Sun Aug 11 18:20:04 IST 2024","passed","Sun Aug 11 18:20:04 IST 2024","Test_UserProfile","test_UserProfile","",""
