@@ -1,0 +1,2 @@
+this is my global file at git global
+this is my demo edit at local repository
